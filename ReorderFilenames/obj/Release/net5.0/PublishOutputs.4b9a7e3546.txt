@@ -1,0 +1,5 @@
+C:\Users\zeker\Desktop\Garbage\ReorderFilenames\ReorderFilenames.exe
+C:\Users\zeker\Desktop\Garbage\ReorderFilenames\ReorderFilenames.dll
+C:\Users\zeker\Desktop\Garbage\ReorderFilenames\ReorderFilenames.deps.json
+C:\Users\zeker\Desktop\Garbage\ReorderFilenames\ReorderFilenames.runtimeconfig.json
+C:\Users\zeker\Desktop\Garbage\ReorderFilenames\ReorderFilenames.pdb

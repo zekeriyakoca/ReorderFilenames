@@ -1,0 +1,16 @@
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.exe
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.deps.json
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.runtimeconfig.json
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.runtimeconfig.dev.json
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.dll
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ref\ReorderFilenames.dll
+C:\repos\ReorderFilenames\ReorderFilenames\bin\Release\net5.0\ReorderFilenames.pdb
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.csproj.AssemblyReference.cache
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.AssemblyInfoInputs.cache
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.AssemblyInfo.cs
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.csproj.CoreCompileInputs.cache
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.dll
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ref\ReorderFilenames.dll
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.pdb
+C:\repos\ReorderFilenames\ReorderFilenames\obj\Release\net5.0\ReorderFilenames.genruntimeconfig.cache
